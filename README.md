@@ -4,7 +4,7 @@
 Marc Enriquez, Juan M. Banda, David Jacob
 ### Description: 
 
-According to research, the mobile health industry is expected to continue to grow in the coming years and is predicted to reach a total market size of [almost 60 billion dollars by 2020](https://www.statista.com/topics/2263/mhealth/). This paired with the fact that the mobile health app numbers almost doubled in the two years from 2015 to exceed 318,500, with more than 200 new apps launched every day, according to a new report from IQVIA [source](http://www.pmlive.com/blogs/digital_intelligence/archive/2018/january/sharp_rise_in_mobile_health_app_numbers_1215229).
+According to research, the mobile health industry is expected to continue to grow in the coming years and is predicted to reach a total market size of [almost 60 billion dollars by 2020](https://www.statista.com/topics/2263/mhealth/). This paired with the fact that the mobile health app numbers almost doubled in the two years from 2015 to exceed 318,500, with more than 200 new apps launched every day, according to a [new report from IQVIA](http://www.pmlive.com/blogs/digital_intelligence/archive/2018/january/sharp_rise_in_mobile_health_app_numbers_1215229).
 
 We decided to focus on a different aspect: Making a service and app the helps those in charge of helping others. With Hospital Health Guard we leverage the FitBit API and the Anthena Health API to help hospitals manage their most valuable resource: their clinicians. 
 
