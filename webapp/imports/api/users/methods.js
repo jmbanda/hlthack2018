@@ -22,5 +22,8 @@ Meteor.methods({
 			total: Meteor.users.find(query).count(),
 			users: Meteor.users.find(query, options).fetch()
 		};
+	},
+	'users.refresh'() {
+		// TODO
 	}
 });

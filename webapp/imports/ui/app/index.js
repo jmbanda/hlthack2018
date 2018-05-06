@@ -3,6 +3,7 @@ import angularMeteor from 'angular-meteor';
 import angularMeteorAuth from 'angular-meteor-auth';
 import uiRouter from 'angular-ui-router';
 import 'angular-ui-bootstrap';
+import 'angular-ui-notification';
 import angularPassword from '../modules/angular-password.js';
 
 import Filters from '../filters';
@@ -23,6 +24,7 @@ angular.module(name, [
 	, angularMeteorAuth
 	, uiRouter
 	, 'ui.bootstrap'
+	, 'ui-notification'
 	, angularPassword
 	, Filters
 	, Login

@@ -2,6 +2,7 @@ import angular from 'angular';
 import 'bootstrap/dist/css/bootstrap.css';
 import '/imports/ui/sb-admin-2.css';
 import 'font-awesome/css/font-awesome.css';
+import 'angular-ui-notification/dist/angular-ui-notification.css';
 
 import {Meteor} from 'meteor/meteor';
 
