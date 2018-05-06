@@ -1,0 +1,4 @@
+<svg id="root">
+  <rect id="background" />
+  <textarea id="messages" class="status" y="42%">Hospital Health Guard</textarea>
+</svg>
