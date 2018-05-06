@@ -1,13 +1,12 @@
 # Hospital Health Guard - HACK/HLTH hackathon 2018
 ![alt text](http://www.jmbanda.com/hhg-logo.png "")
-
 ## Team: 
 Marc Enriquez, Juan M. Banda, David Jacob
-## Description
+### Description: 
 
-## Future plans
+### What is next: 
 
-## Technology Stack
+### Technology Stack
 ![alt text](http://www.jmbanda.com/fitbit-logo.png "")
 ![alt text](http://www.jmbanda.com/athena-logo.png "")
 ![alt text](http://www.jmbanda.com/sklearn-logo.png "")
@@ -16,16 +15,16 @@ Marc Enriquez, Juan M. Banda, David Jacob
 ![alt text](http://www.jmbanda.com/meteor-logo.png "")
 ![alt text](http://www.jmbanda.com/mongodb.png "")
 
-## Project architecture
-FitBit OS for FitbitApp
-Python/Flash/SciKitLearn for Machine Learning functionality
-Meteor.js for Hospital analytics and messaging dashboard
+### Project architecture
+- FitBit OS for FitbitApp
+- Python/Flash/SciKitLearn for Machine Learning functionality
+- Meteor.js for Hospital analytics and messaging dashboard
 
-## Hackathon APIs used
-Fitbit API
-Athena API
+### Hackathon APIs used
+- Fitbit API
+- Athena API
 
-#Workflow
+### Workflow
 1. All clinical staff is provided with a fitbit device to collect their information available from the device (age, bmr, gender, height (meters), restingHeartRate (bpm), stride (walk - run), weight (kgs),  activeMinutes, calories, distance, elevationGain, steps.
 2. We combine the fitbit data with the clinician/provider schedule pulled from AthenaAPI.
 Based on these variables and a few manually crafted features (appointments/hours of work prior and ‘following’) we trained a machine learning model to determine if the doctor will be overworked/tired at a given point in time. 
